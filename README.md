@@ -1,0 +1,1 @@
+PDF Researcher is an interactive Streamlit-based application that allows users to upload multiple PDF documents and ask natural language questions about their content. The app uses modern NLP techniques to extract, embed, and retrieve relevant information from documents, enabling conversational question-answering over PDFs.
