@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Vector stores / embeddings
+*.faiss
+*.pkl
+
+# PDFs
+*.pdf
+
+# OS files
+.DS_Store
